@@ -1,0 +1,13 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2ch;
+    float: left;
+}
+a{
+    text-decoration: none;
+   
+}
+a:hover{
+    text-decoration: black;
+    background-color: white;
+}
